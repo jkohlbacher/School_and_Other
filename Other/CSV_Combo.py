@@ -1,12 +1,12 @@
 import pandas as pd
 
 # reading csv files
-data1 = pd.read_csv('datasets/Zoho Export - Borrowers.csv')
-data2 = pd.read_csv('datasets/Zoho Export - Deals.csv')
+data1 = pd.read_csv('filename')
+data2 = pd.read_csv('filename')
   
 # using merge function by setting how='outer'
 output4 = pd.merge(data1, data2, 
-                   on='Borrower ID', 
+                   on='columnname', 
                    how='outer')
 
-output4.to_csv('D:/Work/Code/python-pipedrive/datasets/Merged_Data.csv',index=False)
+output4.to_csv('output',index=False)
