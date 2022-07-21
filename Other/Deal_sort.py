@@ -22,12 +22,12 @@ import time
 
 pipedrive = Pipedrive('') #Enter API key of account that needs the sorting
 MD_Custom_Api = ''
-Current_date = datetime.datetime.strptime('2021-11-18','%Y-%m-%d')
-Import_stage_id = 19
-NoDateStageID = 20
-PastDateID = 21
-UserID = 12387001 
-PostFundingPipeID = 2
+Current_date = datetime.datetime.strptime('','%Y-%m-%d')
+Import_stage_id = 
+NoDateStageID = 
+PastDateID = 
+UserID =  
+PostFundingPipeID = 
 
 
 
