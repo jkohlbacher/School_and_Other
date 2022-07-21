@@ -1,0 +1,1 @@
+Takes one of the XML files and a range of dates then prints out all events within that range in the required format. The tests provide an example of the required format

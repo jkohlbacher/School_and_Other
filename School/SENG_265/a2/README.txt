@@ -1,0 +1,1 @@
+Same idea as A1 but in python and we were not allowed to use certain libraries that would make certain tasks ,like parsing the XML, trivial. 

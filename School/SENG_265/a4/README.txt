@@ -1,0 +1,1 @@
+It was required to structure the programs in such a way that everything was connected to a python class. It uses random numbers to generate simple html art. 

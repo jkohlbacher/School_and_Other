@@ -1,0 +1,1 @@
+Same idea as A1 and A2 but back in C and with further requirements that made the data harder to parse. The textbook implementation of a linked list in C was provided and used as part of the solution. 

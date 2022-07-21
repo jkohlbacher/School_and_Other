@@ -1,0 +1,1 @@
+A43 imports modified versions of A41 and A42 to create 3 different html files with varying numbers of shapes. The SVG canvas size stays the same for all of them as there is no way to change it without manually going into A41 and editing it. 

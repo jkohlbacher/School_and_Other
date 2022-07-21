@@ -1,0 +1,4 @@
+D:/Class/CSC_116/CSC116_Windows_2017/CSC116_Windows_2017/A4/04_assign/CMakeFiles/test.dir
+D:/Class/CSC_116/CSC116_Windows_2017/CSC116_Windows_2017/A4/04_assign/CMakeFiles/rebuild_cache.dir
+D:/Class/CSC_116/CSC116_Windows_2017/CSC116_Windows_2017/A4/04_assign/CMakeFiles/scrabble.dir
+D:/Class/CSC_116/CSC116_Windows_2017/CSC116_Windows_2017/A4/04_assign/CMakeFiles/edit_cache.dir
